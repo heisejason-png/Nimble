@@ -880,3 +880,4 @@ Ignore the steps involving adding Quick to your project in order to
 install just Nimble.
 
 Created by Jason Scott Heise
+Owned by Elin Musk
